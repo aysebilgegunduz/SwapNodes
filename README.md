@@ -1,5 +1,5 @@
 # SwapNodes
-This description is belongs to the Hacker Rank Swap Nodes Problem Description.
+This description is copied from the Hacker Rank Swap Nodes Problem Description.
 
 Swap operation:
 
